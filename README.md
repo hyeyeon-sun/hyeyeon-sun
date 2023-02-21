@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:AAAAF0,100:F8CED6&height=250&section=header&text=Hyeyeon&fontSize=70&animation=twinkling&fontColor=FFFFFF&desc =(๑･̑◡･̑๑))
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:AAAAF0,100:F8CED6&height=300&section=footer)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:AAAAF0,100:F8CED6&height=300&section=header&text=Hyeyeon&fontSize=70&animation=twinkling&fontColor=FFFFFF&desc=꒰◍ˊ◡ˋ꒱੭ु⁾&descAlignY=65&&fontAlignY=45)
+<div style="text-align: center">
+  
 ![hyeyeon-sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeyeon-sun&show_icons=true&theme=transparent)
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=E1E6E1&height=150&section=footer)
