@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hyeyeon-sun/hyeyeon-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:AAAAF0,100:F8CED6&height=250&section=header&text=Hyeyeon&fontSize=70&animation=twinkling&fontColor=FFFFFF&desc =(๑･̑◡･̑๑))
 
-![HyeyeonLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:AAAAF0,100:F8CED6&height=300&section=footer)
+
+
+![hyeyeon-sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeyeon-sun&show_icons=true&theme=transparent)
