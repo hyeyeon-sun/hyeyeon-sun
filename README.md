@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 <div align=center> 
   
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:AAAAF0,100:F8CED6&height=300&section=header&text=Hyeyeon&fontSize=70&animation=twinkling&fontColor=FFFFFF&desc=꒰◍ˊ◡ˋ꒱੭ु⁾&descAlignY=65&&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:AAAAF0,100:F8CED6&height=230&section=header&text=Hyeyeon&fontSize=70&animation=twinkling&fontColor=FFFFFF&desc=꒰◍ˊ◡ˋ꒱੭ु⁾&descAlignY=55&&fontAlignY=35)
+  
+  **안녕하세요!** ✋<br>
+  
+  풀스택 개발을 하고 있는 이혜연입니다 :)<br>
+  최근에는 데이터 분야에 관심이 생겨 공부중이에요 ! 반갑습니다 😄
+  <br><br>
+  
 
   ☁️ contact ☁️ <br><br>
   <a href="https://hyeyeon-sun.github.io/">
