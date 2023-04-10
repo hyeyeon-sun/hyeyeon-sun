@@ -49,12 +49,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
   
   
-  
-  💡dataProcessing : 
-  <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"/>
-  
-  
   💡infra : 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
@@ -71,8 +65,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat&logo=ApacheHadoop&logoColor=black"/><br>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
