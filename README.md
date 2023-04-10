@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   **안녕하세요!** ✋<br>
   
   풀스택 개발을 하고 있는 이혜연입니다 :)<br>
-  최근에는 데이터 분야에 관심이 생겨 공부중이에요 ! 반갑습니다 😄
+  반갑습니다 😄
   <br><br>
   
 
