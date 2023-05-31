@@ -19,7 +19,7 @@ Here are some ideas to get you started:
      
   **안녕하세요!** ✋<br>
   
-  풀스택 개발을 하고 있는 이혜연입니다 :)<br>
+  백엔드 개발을 하고 있는 이혜연입니다 :)<br>
   반갑습니다 😄
   <br><br>
   
