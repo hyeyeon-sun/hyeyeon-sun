@@ -79,9 +79,9 @@ Here are some ideas to get you started:
   <br><br>
   
 
-  
+<!--   
   ⭐️ stats ⭐️ <br><br>
-![hyeyeon-sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeyeon-sun&show_icons=true&theme=buefy)
+![hyeyeon-sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeyeon-sun&show_icons=true&theme=buefy) -->
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E1E6E1&height=150&section=footer)
